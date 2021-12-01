@@ -23,7 +23,7 @@ const Login = props => {
     <div className="submit-form">
       <div>
         <div className="form-group">
-          <label htmlFor="user">Username</label>
+          <label htmlFor="user">User-name</label>
           <input
             type="text"
             className="form-control"
